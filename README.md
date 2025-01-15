@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://github.com/KwakuAAnalyst/BH_savest/blob/main/photo.jpg" alt="BlockHolder" width="200px">
 </div>
+- Ebenezer Agyenim-Boateng
+- Kwaku Amoakohene
 
 # BlockHolder Save
 
